@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://python.org)
 
 **🚀 自动化天翼云盘签到，每日获取免费存储空间**
-
+.
 </div>
 
 ---
