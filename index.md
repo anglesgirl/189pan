@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/anglesgirl/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/anglesgirl/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/anglesgirl/189pan)
 
-**最后更新:** 2026-06-11 14:11:00 CST
+**最后更新:** 2026-06-12 01:03:56 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/anglesgirl/189pan/actions)
-- 📋 [查看最新运行](https://github.com/anglesgirl/189pan/actions/runs/27327596127)
+- 📋 [查看最新运行](https://github.com/anglesgirl/189pan/actions/runs/27363831753)
 - 🏠 [返回项目主页](https://github.com/anglesgirl/189pan)
 - ⚙️ [手动触发签到](https://github.com/anglesgirl/189pan/actions/workflows/main.yml)
 
@@ -16,18 +16,18 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2026-06-11 14:11:00
+- **启动时间**: 2026-06-12 01:03:56
 - **账户数量**: 1 个
 
 ## 账户1
-登录过程出错: HTTPSConnectionPool(host='m.cloud.189.cn', port=443): Max retries exceeded with url: /udb/udb_login.jsp?pageId=1&pageKey=default&clientType=wap&redirectURL=https://m.cloud.189.cn/zhuanti/2021/shakeLottery/index.html (Caused by NewConnectionError("HTTPSConnection(host='m.cloud.189.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+登录过程出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/oauth2/wap/autoLogin.do?appId=cloud&version=v1.1&clientType=20100&format=redirect&paras=70AB8AEE6A78181E07BA9DAF959BEDD4FCDA742EE55FCD47AFB5E4F9FF12A13D73795EFB3AE7DFBBE73678C9A7CBC83E47E5FACCBB1F1D9CB676A1B64CA121C73462A16FD4861211C27FA851A0524CB7ACD4AE228CECEE0574687AC3D5B77D037E44C1763811F745717062ECD251A74D9CDC9366044A1405AC44C498F271D38318642CBDF7F119B6C76D0263B75AB95B5F89A11471FF877AF8875C1B8E3DA53A8CC39DAE9BEF25A904149EF298E962654185F7C745DAC2D5DD56A57836EFCF25D1BF7F0F03AC37CF9B4316BCE86CBE767FA6857215C04754BF37A60493F37D90EFBDA1C49FCDF639B5E03B876F3ACA8CB2B018EFD8E94682828669283A284B44915208839C5EDD5430E1B6B2A6D4864B77243DE502A169AD01BFBEC0E2CD9FD85E236ED025DD68F916D0B09F4C96DB209050434C14B0F7D2D5374A0C06348DE40B73EEA27B11D2959F79E8803CD97731B19C931165FF4189F3B9C8C72B3904EDE92C4452A4C4F120B1D2DBF1066F4CFF78C414D66C11C61BDDB90FEDED6E12CC00315C35DC7B9E7D7D951732577C18D48626E8F37E43045088489D2120D69DE3DD8F9B4948D044EDC7B27DA968AB0EDA69587961748D3069F5EE56AF8154DC086B8717F5FD4577C37FEE33DE3F983F2B036EDF460F80EBEEC10E7ABEAC202542EA57A9C4646DA5F47EFD5E3CBE036D66249BECD0A54EF184F33DC9C49E8C556F2719FE1B2F819123898E1658&sign=B84CC7DBC771EF8C10FAEDA0139926C3DD25811F (Caused by NewConnectionError("HTTPSConnection(host='open.e.189.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 ### 执行结果
 - **登录状态**: 登录失败
 - **签到结果**: 
 
 ---
 ## 执行统计
-- **结束时间**: 2026-06-11 14:15:29
-- **运行时长**: 269.17 秒
+- **结束时间**: 2026-06-12 01:08:33
+- **运行时长**: 276.75 秒
 
 ✅ **所有账户处理完成！**
